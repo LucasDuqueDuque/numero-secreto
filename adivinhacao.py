@@ -54,6 +54,5 @@ if(__name__ == "__main__"):
     jogar()
 
 
-print("Atualização")
 
-print("Atualização")
+
