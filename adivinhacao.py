@@ -54,5 +54,5 @@ if(__name__ == "__main__"):
     jogar()
 
 
-print("teste mudar")
+print("teste mudar 4444")
 
